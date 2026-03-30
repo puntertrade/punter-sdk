@@ -1,0 +1,15 @@
+{
+  "name": "@punter/sdk",
+  "version": "0.3.1",
+  "description": "Typed TypeScript client for Punter — open markets, take a side, read live odds, settle.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { "build": "tsc -p tsconfig.json", "test": "node --test" },
+  "keywords": ["punter","prediction-markets","sdk","typescript","trading"],
+  "repository": { "type": "git", "url": "https://github.com/ramdany29/punter-sdk.git" },
+  "homepage": "https://zkpassorg.vercel.app/docs",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "devDependencies": { "typescript": "^5.4.0", "@types/node": "^20.11.0" }
+}
