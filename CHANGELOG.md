@@ -4,3 +4,6 @@
 
 ### changed
 - markets.live accepts chain filter
+
+### chore
+- bump typescript to 5.4
