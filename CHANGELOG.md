@@ -1,9 +1,11 @@
+# Changelog
 
-### fixed
-- surface non-2xx bet errors
+## [0.3.1]
+- `chat()` intent endpoint
+- basket support
 
-### changed
-- markets.live accepts chain filter
+## [0.2.0]
+- markets.live / markets.get
 
-### chore
-- bump typescript to 5.4
+## [0.1.0]
+- initial client + bet()
