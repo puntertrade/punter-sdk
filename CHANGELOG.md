@@ -9,3 +9,6 @@
 
 ## [0.1.0]
 - initial client + bet()
+
+### refactor
+- extract Markets class
