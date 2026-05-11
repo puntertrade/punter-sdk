@@ -12,3 +12,6 @@
 
 ### refactor
 - extract Markets class
+
+### test
+- cover default construction
