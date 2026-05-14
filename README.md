@@ -48,3 +48,5 @@ await punter.chat("take YES on the Binance listing");
 ## Links
 
 [Docs](https://zkpassorg.vercel.app/docs) · [@usepunterxyz](https://x.com/usepunterxyz) · MIT
+
+<!-- npm badge -->
