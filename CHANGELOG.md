@@ -15,3 +15,6 @@
 
 ### test
 - cover default construction
+
+### fixed
+- URLSearchParams typing
