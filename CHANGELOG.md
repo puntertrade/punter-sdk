@@ -18,3 +18,5 @@
 
 ### fixed
 - URLSearchParams typing
+
+### chore: release v0.3.1
